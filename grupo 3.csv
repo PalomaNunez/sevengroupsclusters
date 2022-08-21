@@ -1,0 +1,323 @@
+;ID;Dimension;Indicador;Country;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019
+93;86;Mortalidad;Defunciones por enfermedades no transmisibles (%);Bahamas;71;72,3;72,7;73,1;72,9;74,2;74,4;73;71,6;71,3;72,7;74,4;73,9;76,6;75,4
+94;89;Mortalidad;Defunciones por enfermedades transmisibles (%);Bahamas;17,8;16,9;15,9;15,6;15,4;13,9;13,3;14,9;16,4;17,5;14,9;14,7;15,5;12,2;10,7
+95;92;Mortalidad;Defunciones por causas externas (%);Bahamas;11,2;10,7;11,4;11,3;11,7;12;12,3;12,2;12;11,2;12,4;11;10,7;11,2;13,9
+96;95;Mortalidad;Tasa de mortalidad general (ajustada por edad por 1 000 habs);Bahamas;7,1;7,2;6,9;7;7,1;7,1;7,1;7;7;6,9;7;6,9;6,9;6,9;7
+97;98;Mortalidad;Tasa de mortalidad por enfermedades transmisibles (ajustada por edad por 100 000 habs);Bahamas;108,2;105,6;95,9;94,9;95,7;87,1;84,7;94;102,9;110,5;98;97,3;102,7;83,8;76,4
+98;101;Mortalidad;Tasa de mortalidad por enfermedades no transmisibles (ajustada por edad por 100 000 habs);Bahamas;537,4;549,8;529,1;535,5;544,1;548,8;548,5;534,8;519;513;525,2;526,5;518,6;531,4;532,8
+99;104;Mortalidad;Tasa de mortalidad por causas externas (ajustada por edad por 100 000 habs);Bahamas;68,3;66,5;68,1;68,3;72,6;74;76,8;76,2;74,8;69,9;79,3;69,8;68,4;72,3;92,1
+100;107;Mortalidad;Tasa de mortalidad por neoplasias malignas (ajustada por edad por 100 000 habs);Bahamas;103,8;106,1;104;105,9;107,6;107,9;108,6;108,4;107,8;106,6;106,9;106,4;105,9;105,7;106
+101;110;Mortalidad;Tasa de mortalidad por cáncer de próstata (ajustada por edad por 100 000 habs);Bahamas;44,7;45,2;44,7;45,2;45;44,7;45,2;45,9;44,2;44;44,4;44,5;44,3;44,3;44,7
+102;111;Mortalidad;Tasa de mortalidad por cáncer de mama (ajustada por edad por 100 000 habs);Bahamas;30;31,1;30,7;31,2;32;32,6;32,9;32,5;33,2;32,1;31,7;31,6;31,3;31;30,8
+103;112;Mortalidad;Tasa de mortalidad por cáncer de colon y recto (ajustada por edad por 100 000 habs);Bahamas;10,1;10,5;10,2;10,6;10,9;10,9;11,1;11,1;11;11;11;11;10,9;11;11
+104;115;Mortalidad;Tasa de mortalidad por cáncer de cuello uterino (ajustada por edad por 100 000 habs);Bahamas;9,7;9,7;9,2;9,2;9,6;9,5;9,7;9,7;9,7;9,5;9,4;9,2;9,1;9;8,9
+105;116;Mortalidad;Tasa de mortalidad por cáncer de pulmón (ajustada por edad por 100 000 habs);Bahamas;7,4;7,6;7,5;7,6;7,8;7,8;7,7;7,6;7,4;7,3;7,4;7,4;7,4;7,4;7,4
+106;119;Mortalidad;Tasa de mortalidad por cáncer de páncreas (ajustada por edad por 100 000 habs);Bahamas;2,4;2,5;2,4;2,5;2,6;2,6;2,6;2,6;2,6;2,6;2,6;2,6;2,6;2,6;2,7
+107;124;Mortalidad;Tasa de mortalidad por cáncer uterino (ajustada por edad por 100 000 habs);Bahamas;6,7;6,8;6,5;6,5;6,7;6,5;6,6;6,5;6,8;6,7;6,6;6,6;6,5;6,5;6,4
+108;125;Mortalidad;Tasa de mortalidad por enfermedades circulatorias (ajustada por edad por 100 000 habs);Bahamas;246,5;249,2;236,8;241,1;245,8;248,4;247,2;238,2;228,4;224,9;232,5;234,2;230,5;237,2;238,3
+109;128;Mortalidad;Tasa de mortalidad por enfermedades isquémicas del corazón (ajustada por edad por 100 000 habs);Bahamas;94,2;95,1;88,2;89,9;91,3;92;91,9;88,6;84,7;83,1;86,6;87,6;86,4;88,7;89,1
+110;131;Mortalidad;Tasa de mortalidad por enfermedades cerebro-vasculares (ajustada por edad por 100 000 habs);Bahamas;63,7;63,8;60,9;62;63,1;63,3;62,7;60,8;58,4;57,1;59,1;59,5;58,6;60,2;60,4
+111;134;Mortalidad;Tasa de mortalidad por diabetes mellitus (ajustada por edad por 100 000 habs);Bahamas;53,6;54,7;51,5;52;53,2;52,8;52,3;50,7;48,8;48;49,4;49,4;48,5;50,3;50,6
+112;137;Mortalidad;Tasa de mortalidad por Alzheimer (ajustada por edad por 100 000 habs);Bahamas;16,9;17,1;17,3;17,3;17,3;17,2;17,1;17,1;17,1;16,9;16,8;16,8;16,8;16,9;16,8
+113;140;Mortalidad;Tasa de mortalidad por accidentes de transporte terrestre (ajustada por edad por 100 000 habs);Bahamas;21,4;15,1;16;14,8;16,5;12,9;13,3;13,1;14,1;8;8,1;8;8,4;7,9;7,4
+114;143;Mortalidad;Tasa de mortalidad por suicidio (ajustada por edad por 100 000 habs);Bahamas;3,1;3,6;3,3;3,4;3,4;3,7;3,8;3,6;3,2;3,3;3,4;3,5;3,3;3,4;3,4
+115;146;Mortalidad;Tasa de mortalidad por homicidio (ajustada por edad por 100 000 habs);Bahamas;17,5;19,2;21,6;22,9;25,2;27,6;30,6;30,9;31,8;32,6;33,2;31,4;31,1;35,2;36,4
+116;149;Mortalidad;Tasa de mortalidad por caídas (ajustada por edad por 100 000 habs);Bahamas;4,8;4,9;4,8;4,9;5,1;5,2;5,2;5,2;5;5;5;5,1;4,9;5;5
+117;152;Mortalidad;Tasa de mortalidad por envenenamiento accidental (ajustada por edad por 100 000 habs);Bahamas;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2;0,2
+118;155;Mortalidad;Tasa de mortalidad por cirrosis (ajustada por edad por 100 000 habs);Bahamas;16,8;17,6;16,6;16,6;16,3;16,6;16,4;15,7;14,7;14,8;15,4;15,6;15,1;16;16,2
+119;158;Mortalidad;Tasa de mortalidad por infecciones respiratorias agudas bajas (ajustada por edad por 100 000 habs);Bahamas;28;29,4;30,1;30,7;30,5;29,6;28,2;28,4;27,4;26,9;27,3;27,7;27,2;27,9;27,8
+120;161;Mortalidad;Tasa de mortalidad por enfermedades respiratorias crónicas (ajustada por edad por 100 000 habs);Bahamas;14,4;14,9;14,3;14,5;14,8;14,9;14,8;14,4;13,8;13,7;14,1;14,1;13,8;14,2;14,2
+121;164;Mortalidad;Tasa de mortalidad por tuberculosis (ajustada por edad por 100 000 habs);Bahamas;1,3;0,7;0,9;1,2;0,5;0,5;1,2;0,3;0,5;0,5;0,3;0,3;0,2;0,1;0,1
+122;167;Mortalidad;Tasa de mortalidad por VIH (ajustada por edad por 100 000 habs);Bahamas;61,1;57,4;48;47,3;49;40,5;38,3;49,2;59,5;66,7;53,5;52,4;58,5;39,1;32,6
+123;174;Mortalidad;Tasa de mortalidad infantil estimada (1 000 nv);Bahamas;14,4;14,3;14,2;13,9;13,6;13,3;13,1;12,8;12,5;12,3;12;11,7;11,4;11,1;10,9
+124;176;Mortalidad;Mortalidad en menores de cinco años estimada (1 000 nv);Bahamas;16,8;16,7;16,5;16,2;15,9;15,6;15,2;14,9;14,6;14,3;14;13,6;13,3;12,9;12,6
+125;177;Mortalidad;Muertes por EDA en menores de cinco años (%);Bahamas;0;0;0;0;0;0;0;1,3;3,9;3,9;4,1;2,8;2,8;2,9;1,5
+126;178;Mortalidad;Muertes por IRA en menores de cinco años (%);Bahamas;9,5;11,9;20,2;22,6;20,5;15,9;11,1;13,9;14,3;11,8;12,2;12,5;12,7;13;13,4
+127;181;Mortalidad;Razón de mortalidad materna estimada (100 000 nv);Bahamas;77;78;77;77;78;78;78;78;78;77;74;72;70;76,30769231;76,30769231
+128;189;Sociodemográfico;Mediana de edad (en años);Bahamas;28,1;28,4;28,6;28,9;29,1;29,4;29,7;30;30,3;30,6;30,9;31,1;31,4;31,7;32
+129;194;Sociodemográfico;Tasa anual de crecimiento poblacional (%);Bahamas;1,9;1,9;1,9;1,8;1,6;1,4;1,2;1;1;0,9;1;1;1;1;1
+130;195;Sociodemográfico;Tasa bruta de natalidad (1 000 habs);Bahamas;15,3;15,3;15,3;15,3;15,2;15;14,9;14,7;14,5;14,3;14,2;14,1;14;14;13,9
+131;196;Sociodemográfico;Tasa bruta de mortalidad (1 000 habs);Bahamas;6,2;6,3;6,4;6,5;6,5;6,6;6,6;6,6;6,7;6,7;6,7;6,7;6,7;6,8;6,8
+132;197;Sociodemográfico;Población urbana (%);Bahamas;82,2;82,3;82,3;82,3;82,4;82,4;82,5;82,5;82,6;82,7;82,7;82,8;82,9;83;83,1
+133;198;Sociodemográfico;Esperanza de vida al nacer (en años);Bahamas;72;72;72;72;72,1;72,1;72,3;72,4;72,6;72,9;73,1;73,3;73,6;73,8;73,9
+134;201;Sociodemográfico;Razón de dependencia (100 habs);Bahamas;51,3;50,8;50,6;50,3;49,9;49,2;48,4;47,4;46,3;45,2;44,3;43,3;42,7;42,3;42
+135;204;Sociodemográfico;Población < 15 años (%);Bahamas;28,1;27,8;27,7;27,5;27,2;26,9;26,4;25,8;25,2;24,6;24;23,4;22,9;22,5;22,1
+136;205;Sociodemográfico;Población 65 y más años (%);Bahamas;5,8;5,8;5,9;6;6;6,1;6,2;6,3;6,4;6,6;6,7;6,9;7,1;7,3;7,5
+137;208;Sociodemográfico;Tasa global de fecundidad (hijos por mujer);Bahamas;1,9;1,9;1,9;1,9;1,9;1,9;1,9;1,8;1,8;1,8;1,8;1,8;1,8;1,8;1,7
+138;209;Sociodemográfico;Tasa de fecundidad en adolescentes (nacimientos por 1 000 mujeres de 15 a 19 años);Bahamas;42,2;41,3;40,4;39,5;38,1;36,8;35,5;34,1;32,8;32,2;31,7;31,1;30,6;30;29,2
+277;86;Mortalidad;Defunciones por enfermedades no transmisibles (%);Brazil;71,7;72,2;72,6;72,9;72,8;73;73,2;73;73;73;73,4;73,3;74;74,6;74,7
+278;89;Mortalidad;Defunciones por enfermedades transmisibles (%);Brazil;15;14,8;14,3;13,9;14,1;13,8;13,7;13,6;14;13,9;14,2;14,5;13,7;13,5;13,7
+279;92;Mortalidad;Defunciones por causas externas (%);Brazil;13,2;13;13,1;13,2;13,1;13,2;13,1;13,4;13;13,1;12,5;12,3;12,3;11,9;11,6
+280;95;Mortalidad;Tasa de mortalidad general (ajustada por edad por 1 000 habs);Brazil;7;6,9;6,7;6,7;6,6;6,6;6,5;6,3;6,3;6,2;6,1;6,1;5,9;5,9;5,8
+281;98;Mortalidad;Tasa de mortalidad por enfermedades transmisibles (ajustada por edad por 100 000 habs);Brazil;98,1;97,2;93,8;91,1;92,7;92,2;90,9;88;90,3;87,9;89,6;91,6;83,5;82;81,8
+282;101;Mortalidad;Tasa de mortalidad por enfermedades no transmisibles (ajustada por edad por 100 000 habs);Brazil;524,3;516,1;505,5;500,2;492,9;492,5;486,3;468,6;461,3;450,2;450,1;447,7;433,7;432,6;425,2
+283;104;Mortalidad;Tasa de mortalidad por causas externas (ajustada por edad por 100 000 habs);Brazil;74,9;73,7;74;75,2;75,4;76,7;77,1;78,1;76,6;77,3;74,5;75,1;74;72,5;70,8
+284;107;Mortalidad;Tasa de mortalidad por neoplasias malignas (ajustada por edad por 100 000 habs);Brazil;113,7;112,2;111,2;110,7;109,6;109,8;108,4;108;106,6;105,5;105,7;104,7;103,7;104,6;102,8
+285;110;Mortalidad;Tasa de mortalidad por cáncer de próstata (ajustada por edad por 100 000 habs);Brazil;23,7;23,5;23;23,1;22,7;22,7;22,7;21,8;21,3;20,8;20,5;19,9;19,4;19,3;19,1
+286;111;Mortalidad;Tasa de mortalidad por cáncer de mama (ajustada por edad por 100 000 habs);Brazil;15;15,1;14,7;15,1;14,7;15,1;15,6;15,4;15,4;15,3;15,6;15,6;15,6;16,1;15,7
+287;112;Mortalidad;Tasa de mortalidad por cáncer de colon y recto (ajustada por edad por 100 000 habs);Brazil;8,9;8,8;8,7;9;8,8;9,1;9,4;9,4;9,5;9,6;9,4;9,6;9,8;9,9;9,6
+288;115;Mortalidad;Tasa de mortalidad por cáncer de cuello uterino (ajustada por edad por 100 000 habs);Brazil;9;8,6;8,4;8,2;8,3;7,8;8;7,9;7,7;7,4;7,5;7,3;7,5;7,6;7,5
+289;116;Mortalidad;Tasa de mortalidad por cáncer de pulmón (ajustada por edad por 100 000 habs);Brazil;14,3;13,9;14,1;14;13,8;13,8;13,6;13,6;13,6;13,6;13,6;13,5;13,3;13,4;13,2
+290;119;Mortalidad;Tasa de mortalidad por cáncer de páncreas (ajustada por edad por 100 000 habs);Brazil;4,6;4,5;4,6;4,6;4,6;4,7;4,7;4,8;4,8;4,8;4,9;4,9;5,1;5,2;5
+291;124;Mortalidad;Tasa de mortalidad por cáncer uterino (ajustada por edad por 100 000 habs);Brazil;1,8;1,8;1,9;1,9;1,7;1,8;1,9;2;1,9;2;2;2;2,2;2;2,1
+292;125;Mortalidad;Tasa de mortalidad por enfermedades circulatorias (ajustada por edad por 100 000 habs);Brazil;226,6;224,4;217,1;213,8;207,5;203,4;198,6;188,3;183,3;176,7;174,3;173;164;160,7;156,5
+293;128;Mortalidad;Tasa de mortalidad por enfermedades isquémicas del corazón (ajustada por edad por 100 000 habs);Brazil;94,6;93,6;90,8;89,1;86,1;85,5;84,2;80,2;78,5;75,8;75,4;75,4;71,4;69,6;68,1
+294;131;Mortalidad;Tasa de mortalidad por enfermedades cerebro-vasculares (ajustada por edad por 100 000 habs);Brazil;81;81,3;77,8;76,3;74;71,5;68,7;64,9;61,9;58,9;57,4;56,2;52,9;51,3;50,4
+295;134;Mortalidad;Tasa de mortalidad por diabetes mellitus (ajustada por edad por 100 000 habs);Brazil;32,9;34,2;34,5;34,8;34,7;35,2;35,4;33,1;32,4;31;30,7;30,3;30;30,1;29,2
+296;137;Mortalidad;Tasa de mortalidad por Alzheimer (ajustada por edad por 100 000 habs);Brazil;6,3;7,1;7,7;8,1;8,7;9,9;10,2;10;10,1;10,6;11,1;11,2;11,3;11,9;11,9
+297;140;Mortalidad;Tasa de mortalidad por accidentes de transporte terrestre (ajustada por edad por 100 000 habs);Brazil;23;22,2;22,7;22,6;22,1;24;24;24,2;22,5;22,8;20;19;17,7;16,2;15,1
+298;143;Mortalidad;Tasa de mortalidad por suicidio (ajustada por edad por 100 000 habs);Brazil;5;4,9;5;5,2;5,2;5;5,2;5,3;5,4;5,4;5,6;5,7;6,2;6,5;6,4
+299;146;Mortalidad;Tasa de mortalidad por homicidio (ajustada por edad por 100 000 habs);Brazil;29,9;29,9;29;29,9;30,6;29,7;29,3;31,1;30,4;30,4;30,3;31,6;31,9;31,4;31,6
+300;149;Mortalidad;Tasa de mortalidad por caídas (ajustada por edad por 100 000 habs);Brazil;5,5;5,9;6,1;6,2;6,4;6,9;6,9;7;7,2;7,3;7,4;7,6;7,7;7,9;7,6
+301;152;Mortalidad;Tasa de mortalidad por envenenamiento accidental (ajustada por edad por 100 000 habs);Brazil;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,2;0,2;0,1;0,1;0,2;0,1
+302;155;Mortalidad;Tasa de mortalidad por cirrosis (ajustada por edad por 100 000 habs);Brazil;11,5;11,4;11,5;11,4;11,1;11,1;11;10,7;10,4;10,1;9,9;9,8;9,4;9,1;9
+303;158;Mortalidad;Tasa de mortalidad por infecciones respiratorias agudas bajas (ajustada por edad por 100 000 habs);Brazil;32,8;35,3;35;34,2;37,8;37,9;38,6;37,8;40,1;39,6;41,3;42,8;38,8;38,5;38,6
+304;161;Mortalidad;Tasa de mortalidad por enfermedades respiratorias crónicas (ajustada por edad por 100 000 habs);Brazil;57,3;52,4;49,5;46,8;45,7;46;45,7;42,4;42,3;40,1;40,7;40;38,9;37,5;37
+305;164;Mortalidad;Tasa de mortalidad por tuberculosis (ajustada por edad por 100 000 habs);Brazil;3,6;3,4;3,2;3,2;3,1;2,9;2,8;2,6;2,7;2,5;2,5;2,4;2,4;2,3;2,2
+306;167;Mortalidad;Tasa de mortalidad por VIH (ajustada por edad por 100 000 habs);Brazil;7;6,7;6,7;6,8;6,8;6,7;6,6;6,4;6,6;6,4;6,4;6,2;5,7;5,5;5,4
+307;174;Mortalidad;Tasa de mortalidad infantil estimada (1 000 nv);Brazil;22;20,6;19,4;18,4;17,5;16,7;16;15,4;14,9;14,5;14;14,6;13,2;12,8;12,4
+308;176;Mortalidad;Mortalidad en menores de cinco años estimada (1 000 nv);Brazil;24,7;23,2;21,8;20,6;19,6;18,7;17,9;17,3;16,7;16,2;15,7;16,4;14,8;14,4;13,9
+309;177;Mortalidad;Muertes por EDA en menores de cinco años (%);Brazil;6;5,5;4,2;3,9;3,3;2,8;2,2;2,3;2,3;2;1,9;2,1;2,2;2,2;2,2
+310;178;Mortalidad;Muertes por IRA en menores de cinco años (%);Brazil;9,5;9,5;9;8,6;8,8;7,8;8,5;8,3;8,4;7,7;7,3;7,8;8;7,9;7,8
+311;181;Mortalidad;Razón de mortalidad materna estimada (100 000 nv);Brazil;71;72;71;70;69;65;61;60;61;62;63;62;60;65,15384615;65,15384615
+312;189;Sociodemográfico;Mediana de edad (en años);Brazil;27,1;27,5;27,9;28,3;28,7;29,2;29,6;30;30,5;30,9;31,4;31,8;32,2;32,6;33,1
+313;194;Sociodemográfico;Tasa anual de crecimiento poblacional (%);Brazil;1,1;1,1;1;1;1;0,9;0,9;0,9;0,9;0,8;0,8;0,8;0,8;0,8;0,7
+314;195;Sociodemográfico;Tasa bruta de natalidad (1 000 habs);Brazil;17,2;16,7;16,3;15,9;15,6;15,3;15,1;14,9;14,8;14,6;14,5;14,3;14,1;13,9;13,7
+315;196;Sociodemográfico;Tasa bruta de mortalidad (1 000 habs);Brazil;6;6;6;6;6;6;6,1;6,1;6,1;6,2;6,3;6,3;6,4;6,5;6,5
+316;197;Sociodemográfico;Población urbana (%);Brazil;82,8;83,1;83,4;83,7;84;84,3;84,6;84,9;85,2;85,5;85,8;86;86,3;86,6;86,8
+317;198;Sociodemográfico;Esperanza de vida al nacer (en años);Brazil;71,9;72,3;72,6;73;73,3;73,6;73,9;74,2;74,5;74,8;75;75,2;75,5;75,7;75,9
+318;201;Sociodemográfico;Razón de dependencia (100 habs);Brazil;50,1;49,2;48,5;47,7;47;46,3;45,7;45,1;44,6;44,1;43,7;43,6;43,5;43,4;43,4
+319;204;Sociodemográfico;Población < 15 años (%);Brazil;27,4;26,8;26,3;25,8;25,3;24,8;24,3;23,8;23,3;22,9;22,4;22;21,7;21,3;21
+320;205;Sociodemográfico;Población 65 y más años (%);Brazil;6;6,2;6,3;6,5;6,6;6,8;7;7,3;7,5;7,7;8;8,3;8,6;8,9;9,3
+321;208;Sociodemográfico;Tasa global de fecundidad (hijos por mujer);Brazil;2;1,9;1,9;1,9;1,8;1,8;1,8;1,8;1,8;1,8;1,8;1,8;1,7;1,7;1,7
+322;209;Sociodemográfico;Tasa de fecundidad en adolescentes (nacimientos por 1 000 mujeres de 15 a 19 años);Brazil;77;75;73,1;71,2;69,7;68,3;66,9;65,5;64,1;63,1;62,1;61,1;60,1;59,1;57,9
+461;86;Mortalidad;Defunciones por enfermedades no transmisibles (%);Costa Rica;79,7;79,9;80;80,1;80,9;81,2;81,8;82,2;82,5;82,5;81;80,6;81,7;81,7;82
+462;89;Mortalidad;Defunciones por enfermedades transmisibles (%);Costa Rica;8;7,4;7,5;6,8;6,5;6,9;6,6;6,7;7,1;6,8;7,4;7,6;7,5;7,4;7,1
+463;92;Mortalidad;Defunciones por causas externas (%);Costa Rica;12,3;12,7;12,5;13,1;12,6;11,8;11,5;11,1;10,3;10,6;11,6;11,8;10,7;10,9;10,9
+464;95;Mortalidad;Tasa de mortalidad general (ajustada por edad por 1 000 habs);Costa Rica;4,3;4,4;4,1;4,1;4;4,3;4;4;3,9;4;3,9;4;4;3,9;3,9
+465;98;Mortalidad;Tasa de mortalidad por enfermedades transmisibles (ajustada por edad por 100 000 habs);Costa Rica;32,5;31,5;29,8;27,4;25,9;30,4;27,6;27,4;29,2;28,3;30,1;32,3;31,7;30,6;29,9
+466;101;Mortalidad;Tasa de mortalidad por enfermedades no transmisibles (ajustada por edad por 100 000 habs);Costa Rica;350,8;359,8;331,9;329,2;322,7;355,6;332,5;327,9;323,1;324,9;313,7;322,3;323;312,1;310,2
+467;104;Mortalidad;Tasa de mortalidad por causas externas (ajustada por edad por 100 000 habs);Costa Rica;47,3;50,5;46,6;48,9;46,5;48,7;44,8;43,4;40,3;42,5;46,5;50,1;45,8;45,9;46,7
+468;107;Mortalidad;Tasa de mortalidad por neoplasias malignas (ajustada por edad por 100 000 habs);Costa Rica;95,6;98,2;89,6;89;88,4;98,4;93,6;91,9;93,7;91,3;89;89,5;89,8;85,5;83,9
+469;110;Mortalidad;Tasa de mortalidad por cáncer de próstata (ajustada por edad por 100 000 habs);Costa Rica;20,4;21;22,1;20,9;23,1;24,1;23,2;19,7;20,8;19,7;18,1;18;14,9;15,9;15,4
+470;111;Mortalidad;Tasa de mortalidad por cáncer de mama (ajustada por edad por 100 000 habs);Costa Rica;12;14,5;13,1;14;13,7;14,3;12,4;12,8;15;13,8;12,8;12,8;14;12,6;12
+471;112;Mortalidad;Tasa de mortalidad por cáncer de colon y recto (ajustada por edad por 100 000 habs);Costa Rica;9,7;9,9;9,8;9,2;8,6;9,9;10;9,8;10,6;10,7;10,7;11,6;10,9;10,5;10
+472;115;Mortalidad;Tasa de mortalidad por cáncer de cuello uterino (ajustada por edad por 100 000 habs);Costa Rica;7,2;6,4;5,4;6,4;6;6,9;5,5;6,6;6,2;6,1;5,7;6,2;6,1;5,7;5,3
+473;116;Mortalidad;Tasa de mortalidad por cáncer de pulmón (ajustada por edad por 100 000 habs);Costa Rica;7,4;6,4;6,1;5,6;5,7;6,7;6,6;6,3;6,1;5,7;5,8;5,6;5,4;5,4;5,6
+474;119;Mortalidad;Tasa de mortalidad por cáncer de páncreas (ajustada por edad por 100 000 habs);Costa Rica;4,7;4,5;4,6;3,3;3,9;4,8;4,5;4,8;4,7;4,3;4,4;5;4,9;4,6;4,7
+475;124;Mortalidad;Tasa de mortalidad por cáncer uterino (ajustada por edad por 100 000 habs);Costa Rica;1,9;2,2;1,5;1,5;1,9;2,2;1,7;1,7;2,1;2,3;2,1;2,2;2,6;2,3;2,5
+476;125;Mortalidad;Tasa de mortalidad por enfermedades circulatorias (ajustada por edad por 100 000 habs);Costa Rica;129,2;132,5;122,1;117,9;115,3;127,2;118,1;118,9;111,7;113,9;103,7;102,3;100,9;95,1;92,5
+477;128;Mortalidad;Tasa de mortalidad por enfermedades isquémicas del corazón (ajustada por edad por 100 000 habs);Costa Rica;69,4;71,1;63,2;61,9;58,3;65;60;60,7;59,1;62,4;55,5;54,7;51,8;48,2;40,7
+478;131;Mortalidad;Tasa de mortalidad por enfermedades cerebro-vasculares (ajustada por edad por 100 000 habs);Costa Rica;27,3;26,5;25,5;23,6;25,1;28,3;27,4;27,1;26,3;26,4;23,4;22,3;24,8;22,7;24,4
+479;134;Mortalidad;Tasa de mortalidad por diabetes mellitus (ajustada por edad por 100 000 habs);Costa Rica;20,2;17,8;15,7;17,5;17,2;17,9;15,1;14,2;14,8;14,1;18,2;20,6;22,6;24;26,3
+480;137;Mortalidad;Tasa de mortalidad por Alzheimer (ajustada por edad por 100 000 habs);Costa Rica;4,8;6,6;6,8;7,3;6,5;7;7,5;8,6;8,5;8;7,9;7,7;9,5;9,9;11,6
+481;140;Mortalidad;Tasa de mortalidad por accidentes de transporte terrestre (ajustada por edad por 100 000 habs);Costa Rica;15;16,9;16,3;16,9;15,8;13,7;13;14,5;13,1;13,6;15,6;15,7;13,9;13,6;14
+482;143;Mortalidad;Tasa de mortalidad por suicidio (ajustada por edad por 100 000 habs);Costa Rica;6,7;8,4;5,6;5,5;5,6;6,8;6,7;6,3;6,4;5,3;6,4;7,3;5,8;6,8;7,6
+483;146;Mortalidad;Tasa de mortalidad por homicidio (ajustada por edad por 100 000 habs);Costa Rica;7,9;8,1;8,1;11,1;11,3;11,2;9,9;8,3;8,3;9,5;10,8;11,1;11,5;11,6;12
+484;149;Mortalidad;Tasa de mortalidad por caídas (ajustada por edad por 100 000 habs);Costa Rica;2,3;2,4;2,3;2,1;1,8;1,9;2,1;1,8;1,8;1,5;1,9;2,5;2,2;2,1;1,9
+485;152;Mortalidad;Tasa de mortalidad por envenenamiento accidental (ajustada por edad por 100 000 habs);Costa Rica;0,1;0,1;0,1;0,1;0,1;0,2;0,2;0,1;0,1;0,1;0,1;0,2;0,1;0,1;0,1
+486;155;Mortalidad;Tasa de mortalidad por cirrosis (ajustada por edad por 100 000 habs);Costa Rica;6,9;7,9;7,4;8;7,1;6,6;6,2;5,3;6,5;6,3;6,6;6,5;6,6;6,3;6,2
+487;158;Mortalidad;Tasa de mortalidad por infecciones respiratorias agudas bajas (ajustada por edad por 100 000 habs);Costa Rica;11,9;10;10,8;8,8;9;11,8;9,9;10,5;11,8;12,1;13,5;15,5;14,6;14,2;13,2
+488;161;Mortalidad;Tasa de mortalidad por enfermedades respiratorias crónicas (ajustada por edad por 100 000 habs);Costa Rica;31;29,7;28,5;26;24,7;29,4;24,8;24,2;23,4;24,5;22,7;25,1;23,7;22,5;21,4
+489;164;Mortalidad;Tasa de mortalidad por tuberculosis (ajustada por edad por 100 000 habs);Costa Rica;2,1;1,9;1,2;1,7;1,2;1,2;1,5;1,2;0,9;1;0,7;0,7;0,7;0,6;0,5
+490;167;Mortalidad;Tasa de mortalidad por VIH (ajustada por edad por 100 000 habs);Costa Rica;3;3,4;2,6;2,6;2,6;3,1;2,8;3,1;3;3,2;3,2;3,3;3,1;3,3;3,5
+491;174;Mortalidad;Tasa de mortalidad infantil estimada (1 000 nv);Costa Rica;9,8;9,7;9,7;9,5;9,4;9,2;8,9;8,6;8,2;7,9;7,7;7,5;7,5;7,5;7,5
+492;176;Mortalidad;Mortalidad en menores de cinco años estimada (1 000 nv);Costa Rica;11,3;11,2;11,1;10,9;10,7;10,5;10,2;9,9;9,6;9,3;9;8,9;8,8;8,7;8,6
+493;177;Mortalidad;Muertes por EDA en menores de cinco años (%);Costa Rica;2,6;1,4;1,9;1,3;1,5;1,6;1,3;1,7;0,3;1,6;1,1;1,1;1,2;0,8;0,7
+494;178;Mortalidad;Muertes por IRA en menores de cinco años (%);Costa Rica;8;6;6,3;4,8;3,5;5;5,1;4,6;5,1;4,5;4,6;4,6;4,7;4,3;4,2
+495;181;Mortalidad;Razón de mortalidad materna estimada (100 000 nv);Costa Rica;33;35;29;29;29;32;30;29;29;29;28;28;27;29,76923077;29,76923077
+496;189;Sociodemográfico;Mediana de edad (en años);Costa Rica;27,2;27,5;27,9;28,3;28,7;29,1;29,6;30;30,4;30,8;31,2;31,7;32,1;32,6;33
+497;194;Sociodemográfico;Tasa anual de crecimiento poblacional (%);Costa Rica;1,4;1,4;1,3;1,3;1,3;1,2;1,2;1,2;1,1;1,1;1,1;1;1;1;0,9
+498;195;Sociodemográfico;Tasa bruta de natalidad (1 000 habs);Costa Rica;16,7;16,4;16,2;16;15,9;15,7;15,6;15,4;15,2;15;14,8;14,5;14,2;14;13,7
+499;196;Sociodemográfico;Tasa bruta de mortalidad (1 000 habs);Costa Rica;4,2;4,3;4,3;4,4;4,5;4,5;4,6;4,7;4,7;4,8;4,9;4,9;5;5,1;5,2
+500;197;Sociodemográfico;Población urbana (%);Costa Rica;65,7;66,9;68,2;69,4;70,6;71,7;72,9;73,9;75;75,9;76,9;77,7;78,6;79,3;80,1
+501;198;Sociodemográfico;Esperanza de vida al nacer (en años);Costa Rica;78,1;78,2;78,4;78,5;78,6;78,8;78,9;79,1;79,2;79,4;79,6;79,7;79,9;80,1;80,3
+502;201;Sociodemográfico;Razón de dependencia (100 habs);Costa Rica;51;49,8;48,7;47,8;47;46,2;45,7;45,3;45;44,7;44,6;44,5;44,6;44,7;44,8
+503;204;Sociodemográfico;Población < 15 años (%);Costa Rica;27,4;26,7;26,1;25,5;24,9;24,3;23,8;23,4;22,9;22,5;22,1;21,9;21,6;21,3;21,1
+504;205;Sociodemográfico;Población 65 y más años (%);Costa Rica;6,4;6,5;6,7;6,9;7,1;7,3;7,5;7,8;8,1;8,4;8,7;9;9,3;9,5;9,9
+505;208;Sociodemográfico;Tasa global de fecundidad (hijos por mujer);Costa Rica;2;2;2;1,9;1,9;1,9;1,9;1,9;1,8;1,8;1,8;1,8;1,8;1,8;1,7
+506;209;Sociodemográfico;Tasa de fecundidad en adolescentes (nacimientos por 1 000 mujeres de 15 a 19 años);Costa Rica;67,1;65,9;64,7;63,6;62,8;62;61,3;60,5;59,8;58,5;57,2;56;54,7;53,5;52,5
+553;86;Mortalidad;Defunciones por enfermedades no transmisibles (%);Ecuador;67,7;68,3;68,7;69,1;69,5;69,9;70,8;72,3;73,1;73;73,8;74,3;75,3;75,7;76,2
+554;89;Mortalidad;Defunciones por enfermedades transmisibles (%);Ecuador;18;17,4;16,8;15,9;15,2;14,6;14,1;13,7;13,6;13,8;13,4;12,9;12,8;12,6;12,3
+555;92;Mortalidad;Defunciones por causas externas (%);Ecuador;14,3;14,3;14,4;15;15,3;15,5;15,1;14;13,3;13,2;12,8;12,8;11,9;11,8;11,5
+556;95;Mortalidad;Tasa de mortalidad general (ajustada por edad por 1 000 habs);Ecuador;6,7;6,6;6,4;6,4;6,2;6,1;6;5,8;5,6;5,3;5,3;5,2;5,1;4,9;4,8
+557;98;Mortalidad;Tasa de mortalidad por enfermedades transmisibles (ajustada por edad por 100 000 habs);Ecuador;103,8;100,3;95,2;91,2;84,1;80,8;76,3;73,1;69,8;68,6;66,1;63,3;61,5;58,5;56
+558;101;Mortalidad;Tasa de mortalidad por enfermedades no transmisibles (ajustada por edad por 100 000 habs);Ecuador;481,1;478,3;466;467,6;448,7;448,2;438,4;436,7;418,9;399,9;397,1;394,8;390,3;375,7;365,5
+559;104;Mortalidad;Tasa de mortalidad por causas externas (ajustada por edad por 100 000 habs);Ecuador;81;81,6;80,3;83,8;83;84,6;80,8;74,4;68,3;65,8;63,4;63,9;58,9;56,4;53,8
+560;107;Mortalidad;Tasa de mortalidad por neoplasias malignas (ajustada por edad por 100 000 habs);Ecuador;115,8;115,7;113,9;114,2;109,9;109,8;108,1;107,1;103,3;99,2;97,7;96,9;95,3;92,3;90
+561;110;Mortalidad;Tasa de mortalidad por cáncer de próstata (ajustada por edad por 100 000 habs);Ecuador;24,1;24,2;23,6;23,9;22,7;23;22,7;22,2;21,2;20,2;19,8;19,4;19;18,5;18,3
+562;111;Mortalidad;Tasa de mortalidad por cáncer de mama (ajustada por edad por 100 000 habs);Ecuador;11,2;11,3;11,2;11,3;11,1;11;11;11,2;10,9;10,6;10,4;10,6;10,4;10,1;9,9
+563;112;Mortalidad;Tasa de mortalidad por cáncer de colon y recto (ajustada por edad por 100 000 habs);Ecuador;7,6;7,7;7,8;7,9;7,6;7,8;7,7;7,8;7,6;7,3;7,3;7,3;7,2;7;6,9
+564;115;Mortalidad;Tasa de mortalidad por cáncer de cuello uterino (ajustada por edad por 100 000 habs);Ecuador;14,9;14,8;14,4;14,2;13,7;13,4;12,8;12,6;12;11,4;11;10,9;10,6;10,2;9,9
+565;116;Mortalidad;Tasa de mortalidad por cáncer de pulmón (ajustada por edad por 100 000 habs);Ecuador;8,7;8,7;8,6;8,6;8,2;8,2;8;8;7,6;7,2;7,1;7;6,9;6,8;6,7
+566;119;Mortalidad;Tasa de mortalidad por cáncer de páncreas (ajustada por edad por 100 000 habs);Ecuador;4,2;4,2;4,1;4,1;3,8;3,8;3,8;3,8;3,7;3,6;3,5;3,6;3,6;3,5;3,5
+567;124;Mortalidad;Tasa de mortalidad por cáncer uterino (ajustada por edad por 100 000 habs);Ecuador;2,4;2,4;2,3;2,2;2,1;2;1,9;1,8;1,8;1,7;1,6;1,6;1,6;1,6;1,5
+568;125;Mortalidad;Tasa de mortalidad por enfermedades circulatorias (ajustada por edad por 100 000 habs);Ecuador;156,7;155,1;149,6;149,4;141,8;141,6;137,4;137;130,7;124,9;124,7;124,8;124,2;119,4;115,8
+569;128;Mortalidad;Tasa de mortalidad por enfermedades isquémicas del corazón (ajustada por edad por 100 000 habs);Ecuador;75,6;74,6;71,9;71,7;67,3;67;65,3;65,5;62,5;60;60,4;61,4;61,8;59,7;58
+570;131;Mortalidad;Tasa de mortalidad por enfermedades cerebro-vasculares (ajustada por edad por 100 000 habs);Ecuador;47,3;45,9;43,5;42,6;39,9;39,4;37,7;37,6;36,3;35,1;35,2;35,2;34,9;33,5;32,5
+571;134;Mortalidad;Tasa de mortalidad por diabetes mellitus (ajustada por edad por 100 000 habs);Ecuador;49,9;49,9;48,9;49,2;47,7;47,9;47,1;47,8;46;43,4;42,5;42,4;41,4;39,9;38,8
+572;137;Mortalidad;Tasa de mortalidad por Alzheimer (ajustada por edad por 100 000 habs);Ecuador;17,4;17,2;16,4;16,6;16;16,3;16,1;16,1;15,4;14,9;15,1;14,9;14,8;14,4;14,3
+573;140;Mortalidad;Tasa de mortalidad por accidentes de transporte terrestre (ajustada por edad por 100 000 habs);Ecuador;19,5;20,7;21,2;21,8;25;26,5;26,5;23,7;23,4;25,3;24,6;22,1;22,1;21,3;20,6
+574;143;Mortalidad;Tasa de mortalidad por suicidio (ajustada por edad por 100 000 habs);Ecuador;10,3;10,4;10,5;10,8;10,8;10,2;10;10,3;9,7;8,9;8,9;9,1;9,3;8,1;7,7
+575;146;Mortalidad;Tasa de mortalidad por homicidio (ajustada por edad por 100 000 habs);Ecuador;23,6;22,9;21,6;23,6;21,1;22,1;20;15,7;12,3;10,5;9;7,8;6,6;7,7;7,1
+576;149;Mortalidad;Tasa de mortalidad por caídas (ajustada por edad por 100 000 habs);Ecuador;10;9,7;9,4;9,4;9;8,6;8,4;8,3;7,8;7,3;7,2;7,3;7,2;6,8;6,6
+577;152;Mortalidad;Tasa de mortalidad por envenenamiento accidental (ajustada por edad por 100 000 habs);Ecuador;0,6;0,5;0,5;0,5;0,5;0,5;0,5;0,5;0,4;0,4;0,4;0,4;0,4;0,4;0,3
+578;155;Mortalidad;Tasa de mortalidad por cirrosis (ajustada por edad por 100 000 habs);Ecuador;28,6;28,4;27,9;27,9;26,8;26,2;25,6;25,3;24,2;22,8;22,5;22,6;22,2;21,3;20,8
+579;158;Mortalidad;Tasa de mortalidad por infecciones respiratorias agudas bajas (ajustada por edad por 100 000 habs);Ecuador;41,1;41;39,8;40;38,1;37,8;36,4;35,9;33,9;32,3;31,7;31,1;31,1;29,8;28,9
+580;161;Mortalidad;Tasa de mortalidad por enfermedades respiratorias crónicas (ajustada por edad por 100 000 habs);Ecuador;24,4;24,6;23,8;24,2;23,2;23,8;23,5;23,4;22,6;22;22,1;21,8;21,7;20,7;20
+581;164;Mortalidad;Tasa de mortalidad por tuberculosis (ajustada por edad por 100 000 habs);Ecuador;10,7;9,8;8,6;7,9;6,5;6;5,1;4,4;4;4,2;4,2;3,9;4,1;3,8;3,5
+582;167;Mortalidad;Tasa de mortalidad por VIH (ajustada por edad por 100 000 habs);Ecuador;15,1;14,3;13,6;11,6;9,7;8,4;7,6;6,9;7,8;8,9;8,1;6,3;5;4,4;3,7
+583;174;Mortalidad;Tasa de mortalidad infantil estimada (1 000 nv);Ecuador;19,3;18,6;17,8;17,1;16,4;15,7;15;14,4;13,8;13,4;13;12,7;12,5;12,3;12
+584;176;Mortalidad;Mortalidad en menores de cinco años estimada (1 000 nv);Ecuador;22,7;21,8;20,9;20;19,1;18,3;17,5;16,7;16,1;15,5;15,1;14,8;14,5;14,3;14
+585;177;Mortalidad;Muertes por EDA en menores de cinco años (%);Ecuador;1,8;1,5;1,4;1,4;1,4;1,5;1,5;1,5;1,5;1,3;1,6;1,5;1,5;1,6;1,6
+586;178;Mortalidad;Muertes por IRA en menores de cinco años (%);Ecuador;13,7;13,7;13,6;13,5;13,5;13,2;13;12,8;12,5;13;12,3;11,7;12,5;12,1;12
+587;181;Mortalidad;Razón de mortalidad materna estimada (100 000 nv);Ecuador;94;90;85;82;80;78;76;71;67;65;63;61;59;74,69230769;74,69230769
+588;189;Sociodemográfico;Mediana de edad (en años);Ecuador;23,7;24;24,3;24,5;24,8;25;25,3;25,6;25,9;26,2;26,5;26,8;27,1;27,4;27,6
+589;194;Sociodemográfico;Tasa anual de crecimiento poblacional (%);Ecuador;1,7;1,7;1,7;1,6;1,6;1,6;1,5;1,5;1,5;1,6;1,7;1,7;1,8;1,7;1,6
+590;195;Sociodemográfico;Tasa bruta de natalidad (1 000 habs);Ecuador;23;22,6;22,3;22;21,7;21,5;21,3;21;20,8;20,6;20,4;20,2;20;19,7;19,5
+591;196;Sociodemográfico;Tasa bruta de mortalidad (1 000 habs);Ecuador;5;5;5;5;5,1;5,1;5,1;5,1;5,1;5,1;5,1;5,1;5,1;5,1;5,1
+592;197;Sociodemográfico;Población urbana (%);Ecuador;61,7;61,9;62,1;62,3;62,5;62,7;62,9;63;63,1;63,3;63,4;63,5;63,7;63,8;64
+593;198;Sociodemográfico;Esperanza de vida al nacer (en años);Ecuador;74,1;74,3;74,5;74,7;74,9;75,1;75,3;75,5;75,7;75,9;76,1;76,4;76,6;76,8;77
+594;201;Sociodemográfico;Razón de dependencia (100 habs);Ecuador;62,7;61,8;61,1;60,3;59,6;58,8;58,1;57,3;56,6;55,9;55,4;55;54,6;54,3;54
+595;204;Sociodemográfico;Población < 15 años (%);Ecuador;33,1;32,7;32,3;31,9;31,5;31;30,6;30,2;29,8;29,4;29,1;28,7;28,4;28;27,7
+596;205;Sociodemográfico;Población 65 y más años (%);Ecuador;5,4;5,5;5,6;5,8;5,9;6;6,1;6,2;6,3;6,4;6,6;6,8;7;7,2;7,4
+597;208;Sociodemográfico;Tasa global de fecundidad (hijos por mujer);Ecuador;2,8;2,8;2,7;2,7;2,6;2,6;2,6;2,6;2,5;2,5;2,5;2,5;2,5;2,4;2,4
+598;209;Sociodemográfico;Tasa de fecundidad en adolescentes (nacimientos por 1 000 mujeres de 15 a 19 años);Ecuador;83,9;83,8;83,7;83,6;83,4;83,3;83,1;82,9;82,7;82;81,4;80,7;80;79,3;78,8
+921;86;Mortalidad;Defunciones por enfermedades no transmisibles (%);Jamaica;73;74,2;73,3;74,9;76,1;76,2;77,9;78;78,2;79,4;79,2;79;78,6;79,3;79,3
+922;89;Mortalidad;Defunciones por enfermedades transmisibles (%);Jamaica;15,1;13,4;12,6;11,7;11;10,8;10,3;10,6;10,2;9,7;9,4;9,1;9;9;9
+923;92;Mortalidad;Defunciones por causas externas (%);Jamaica;11,9;12,4;14,1;13,4;12,9;13;11,8;11,4;11,5;10,9;11,4;11,8;12,4;11,7;11,7
+924;95;Mortalidad;Tasa de mortalidad general (ajustada por edad por 1 000 habs);Jamaica;5,4;5,3;5,8;6,3;6,6;5,8;6,1;5,6;5,5;5,8;5,9;5,9;5,8;5,8;5,8
+925;98;Mortalidad;Tasa de mortalidad por enfermedades transmisibles (ajustada por edad por 100 000 habs);Jamaica;81,8;73,2;76,2;76,8;75,8;66,8;66,7;63,6;60,8;61,1;59,3;57,6;56,8;56,9;57,5
+926;101;Mortalidad;Tasa de mortalidad por enfermedades no transmisibles (ajustada por edad por 100 000 habs);Jamaica;385,5;389,6;419,1;461,9;491,6;435,7;465,4;424,8;421,8;455,6;459,9;455,4;450,2;452,8;454,8
+927;104;Mortalidad;Tasa de mortalidad por causas externas (ajustada por edad por 100 000 habs);Jamaica;68,2;71,4;88,5;90,9;91,1;81,2;77,1;68;68,2;68,2;71,5;73,9;77,1;72,5;72,6
+928;107;Mortalidad;Tasa de mortalidad por neoplasias malignas (ajustada por edad por 100 000 habs);Jamaica;118,3;120,6;131,2;144,9;151,2;136,9;143,9;134,8;132,9;139,4;140,5;140,5;139,8;139,6;140,6
+929;110;Mortalidad;Tasa de mortalidad por cáncer de próstata (ajustada por edad por 100 000 habs);Jamaica;49,8;50,1;53,4;61,2;63;56;59,4;54,2;52,1;52,1;52;53;52,8;52,8;53,4
+930;111;Mortalidad;Tasa de mortalidad por cáncer de mama (ajustada por edad por 100 000 habs);Jamaica;19,3;19,2;20,2;21,2;22;21,9;22,4;23,3;23,5;26;26,1;25,9;25,6;25,4;25,5
+931;112;Mortalidad;Tasa de mortalidad por cáncer de colon y recto (ajustada por edad por 100 000 habs);Jamaica;9,6;9,8;11;12,1;12,8;11,6;12,5;11,7;11,9;13;13,2;13,1;13,1;13,1;13,2
+932;115;Mortalidad;Tasa de mortalidad por cáncer de cuello uterino (ajustada por edad por 100 000 habs);Jamaica;19,9;19,8;20,2;20,9;21,2;21;21,4;21,5;21,1;22,5;22,8;22,6;22,3;22,1;22,2
+933;116;Mortalidad;Tasa de mortalidad por cáncer de pulmón (ajustada por edad por 100 000 habs);Jamaica;12,6;13,2;15,4;17,2;18,8;15,1;16,5;14;13,9;14,6;14,9;14,8;14,7;14,8;14,7
+934;119;Mortalidad;Tasa de mortalidad por cáncer de páncreas (ajustada por edad por 100 000 habs);Jamaica;2,6;2,8;3,1;3,3;3,5;3,1;3,4;3,2;3,2;3,4;3,5;3,5;3,5;3,6;3,6
+935;124;Mortalidad;Tasa de mortalidad por cáncer uterino (ajustada por edad por 100 000 habs);Jamaica;4,8;4,8;5,2;5,4;5,8;5,9;6;6,1;6;6,5;6,5;6,4;6,3;6,3;6,4
+936;125;Mortalidad;Tasa de mortalidad por enfermedades circulatorias (ajustada por edad por 100 000 habs);Jamaica;126,3;124,3;136;151,8;165,5;144,2;156,8;141,5;142,6;158,3;159,2;156,4;153,8;154,8;155
+937;128;Mortalidad;Tasa de mortalidad por enfermedades isquémicas del corazón (ajustada por edad por 100 000 habs);Jamaica;40,6;41,3;44,7;49,7;53,9;45,7;49,6;44,1;44,6;50,3;50,8;50;49,4;49,7;49,7
+938;131;Mortalidad;Tasa de mortalidad por enfermedades cerebro-vasculares (ajustada por edad por 100 000 habs);Jamaica;57,9;57,5;62,3;68,8;74,7;64,8;70,4;63,1;63,9;71,5;72,4;71,1;69,8;70,2;70,2
+939;134;Mortalidad;Tasa de mortalidad por diabetes mellitus (ajustada por edad por 100 000 habs);Jamaica;61,8;62,2;66;71,2;75,9;66,4;71,1;63;61,7;67,7;69,7;69,2;68,4;69,4;70,1
+940;137;Mortalidad;Tasa de mortalidad por Alzheimer (ajustada por edad por 100 000 habs);Jamaica;15;15,2;15,3;15,4;15,7;15,3;15,6;15,3;15,3;15,4;15,3;15,2;15,1;15,2;15,1
+941;140;Mortalidad;Tasa de mortalidad por accidentes de transporte terrestre (ajustada por edad por 100 000 habs);Jamaica;12,5;14,2;13;12,8;13,1;11,6;13,2;9,1;10,7;11,4;13,1;12,8;13;13,6;14,2
+942;143;Mortalidad;Tasa de mortalidad por suicidio (ajustada por edad por 100 000 habs);Jamaica;1,6;1,6;1,8;2,3;2,4;2;2,3;2,1;2;2,2;2,2;2,2;2,2;2,2;2,3
+943;146;Mortalidad;Tasa de mortalidad por homicidio (ajustada por edad por 100 000 habs);Jamaica;47,2;49,1;65,9;66,3;65,4;59;52,8;48,7;47,7;46,3;48,1;50,8;53,9;48,6;47,9
+944;149;Mortalidad;Tasa de mortalidad por caídas (ajustada por edad por 100 000 habs);Jamaica;1,9;1,9;2,1;2,4;2,5;2,2;2,4;2,2;2,2;2,3;2,3;2,3;2,3;2,3;2,3
+945;152;Mortalidad;Tasa de mortalidad por envenenamiento accidental (ajustada por edad por 100 000 habs);Jamaica;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1;0,1
+946;155;Mortalidad;Tasa de mortalidad por cirrosis (ajustada por edad por 100 000 habs);Jamaica;4,5;4,4;4,8;5,4;5,7;4,7;5;4,3;4,2;4,7;4,8;4,8;4,7;4,8;4,8
+947;158;Mortalidad;Tasa de mortalidad por infecciones respiratorias agudas bajas (ajustada por edad por 100 000 habs);Jamaica;10,7;10;11;11,9;12,7;10,5;11,1;10,1;10,2;11,5;11,3;11,1;11;11,2;11,3
+948;161;Mortalidad;Tasa de mortalidad por enfermedades respiratorias crónicas (ajustada por edad por 100 000 habs);Jamaica;17;16,7;17,7;20,1;21,8;17,3;18,7;15,8;15,3;16,5;16,7;16,5;16,1;16,3;16,2
+949;164;Mortalidad;Tasa de mortalidad por tuberculosis (ajustada por edad por 100 000 habs);Jamaica;0,8;0,4;0,4;0,5;0,5;0,4;0,3;0,3;0,2;0,3;0,3;0,2;0,2;0,2;0,2
+950;167;Mortalidad;Tasa de mortalidad por VIH (ajustada por edad por 100 000 habs);Jamaica;41,2;34,3;35,8;35,3;34,3;28,2;29,2;27,1;26;25,1;24,1;23,8;23,8;24,4;25,4
+951;174;Mortalidad;Tasa de mortalidad infantil estimada (1 000 nv);Jamaica;17;16,7;16,5;16,2;15,9;15,5;15,1;14,7;14,3;13,9;13,4;13,1;12,7;12,3;11,9
+952;176;Mortalidad;Mortalidad en menores de cinco años estimada (1 000 nv);Jamaica;19,8;19,6;19,3;19;18,6;18,1;17,6;17,2;16,7;16,2;15,6;15,2;14,7;14,3;13,9
+953;177;Mortalidad;Muertes por EDA en menores de cinco años (%);Jamaica;0;0,9;0,5;0,4;1;0;0;1,1;0,5;1,4;0,9;1;1;0,4;0,5
+954;178;Mortalidad;Muertes por IRA en menores de cinco años (%);Jamaica;2,9;2,9;3,3;3,6;4,1;2,8;3,5;3,6;3,2;4,2;3,6;3,6;3,8;4,3;4,5
+955;181;Mortalidad;Razón de mortalidad materna estimada (100 000 nv);Jamaica;80;79;79;79;79;79;79;79;79;78;78;80;80;79,07692308;79,07692308
+956;189;Sociodemográfico;Mediana de edad (en años);Jamaica;26,2;26,4;26,7;27;27,2;27,5;27,8;28,1;28,4;28,7;29;29,4;29,7;30;30,4
+957;194;Sociodemográfico;Tasa anual de crecimiento poblacional (%);Jamaica;0,5;0,5;0,5;0,5;0,5;0,5;0,6;0,6;0,6;0,6;0,5;0,5;0,5;0,5;0,4
+958;195;Sociodemográfico;Tasa bruta de natalidad (1 000 habs);Jamaica;19,1;18,8;18,6;18,3;18;17,7;17,5;17,2;17;16,8;16,6;16,5;16,3;16,1;15,9
+959;196;Sociodemográfico;Tasa bruta de mortalidad (1 000 habs);Jamaica;7;7,1;7,1;7,2;7,2;7,3;7,4;7,4;7,5;7,5;7,5;7,5;7,6;7,6;7,6
+960;197;Sociodemográfico;Población urbana (%);Jamaica;52,8;53;53,2;53,4;53,6;53,7;53,9;54,1;54,4;54,6;54,8;55,1;55,4;55,7;56
+961;198;Sociodemográfico;Esperanza de vida al nacer (en años);Jamaica;74,2;74,1;74,1;74,1;74,1;74;74;74;74;74;74,1;74,2;74,3;74,4;74,5
+962;201;Sociodemográfico;Razón de dependencia (100 habs);Jamaica;61,4;60;58,6;57,3;55,8;54,4;53,2;52,1;51,1;50,3;49,5;49;48,6;48,3;48
+963;204;Sociodemográfico;Población < 15 años (%);Jamaica;30,1;29,5;28,9;28,3;27,7;27;26,5;25,9;25,4;25;24,6;24,3;24;23,8;23,5
+964;205;Sociodemográfico;Población 65 y más años (%);Jamaica;7,9;8;8;8,1;8,2;8,2;8,3;8,3;8,4;8,5;8,5;8,6;8,7;8,8;8,9
+965;208;Sociodemográfico;Tasa global de fecundidad (hijos por mujer);Jamaica;2,4;2,3;2,3;2,3;2,2;2,2;2,1;2,1;2,1;2,1;2;2;2;2;2
+966;209;Sociodemográfico;Tasa de fecundidad en adolescentes (nacimientos por 1 000 mujeres de 15 a 19 años);Jamaica;80;78;76;74;71,4;68,7;66,1;63,4;60,8;59,2;57,6;56;54,4;52,8;51,3
+1059;86;Mortalidad;Defunciones por enfermedades no transmisibles (%);Panama;71,1;70,7;70,3;68,9;68,8;69,9;70,6;72,2;72,4;72,8;75,3;76,6;78;77,4;77,9
+1060;89;Mortalidad;Defunciones por enfermedades transmisibles (%);Panama;18,5;17,1;18,5;18,3;18;17,8;17,2;16,4;17,3;16,9;15,3;14,6;13,8;13,7;13,4
+1061;92;Mortalidad;Defunciones por causas externas (%);Panama;10,5;12,3;11,3;12,7;13,2;12,4;12,1;11,4;10,4;10,4;9,4;8,9;8,2;8,9;8,8
+1062;95;Mortalidad;Tasa de mortalidad general (ajustada por edad por 1 000 habs);Panama;5,1;5;4,9;4,9;4,9;5;4,8;4,8;4,7;4,7;4,6;4,5;4,5;4,4;4,4
+1063;98;Mortalidad;Tasa de mortalidad por enfermedades transmisibles (ajustada por edad por 100 000 habs);Panama;82,8;75,1;81,7;82,7;80,3;82,1;77;74,6;77,9;76,5;68,1;65,4;61,8;61,1;59,7
+1064;101;Mortalidad;Tasa de mortalidad por enfermedades no transmisibles (ajustada por edad por 100 000 habs);Panama;381,2;368,4;358,8;350,7;345,3;357,3;343,1;351,6;346,7;344,2;343,8;345;348,6;338,2;334,7
+1065;104;Mortalidad;Tasa de mortalidad por causas externas (ajustada por edad por 100 000 habs);Panama;48,2;56;50,9;58,1;60;58,5;55,9;53,8;49,1;49,2;44,2;42,1;39,4;42,4;41,9
+1066;107;Mortalidad;Tasa de mortalidad por neoplasias malignas (ajustada por edad por 100 000 habs);Panama;89;91,7;88,8;87,4;82,9;82,4;82,5;87,8;81,8;82,8;82,6;78,1;78;77,4;76,7
+1067;110;Mortalidad;Tasa de mortalidad por cáncer de próstata (ajustada por edad por 100 000 habs);Panama;23,7;24,1;25,2;22,9;19,8;23,1;19,7;25,2;21,6;19,3;20,5;17,3;18,9;18,3;18,1
+1068;111;Mortalidad;Tasa de mortalidad por cáncer de mama (ajustada por edad por 100 000 habs);Panama;11;10,9;11,2;12,4;11,8;12;12,8;13;13,4;13,4;12,3;12,7;12,7;12,2;12,1
+1069;112;Mortalidad;Tasa de mortalidad por cáncer de colon y recto (ajustada por edad por 100 000 habs);Panama;7,6;8,2;8,6;7,4;8,7;7,3;8,2;8,6;8,4;9,7;8,1;7,9;8,7;8;7,9
+1070;115;Mortalidad;Tasa de mortalidad por cáncer de cuello uterino (ajustada por edad por 100 000 habs);Panama;11,1;10,6;8,8;8,5;8,6;10;9,7;9,8;7,6;10,5;9,5;8,1;8,4;8,4;8,4
+1071;116;Mortalidad;Tasa de mortalidad por cáncer de pulmón (ajustada por edad por 100 000 habs);Panama;9,9;10,3;8,9;10,1;8,3;8;8,4;7,7;8,4;7,9;8,4;6,9;6,2;7;6,9
+1072;119;Mortalidad;Tasa de mortalidad por cáncer de páncreas (ajustada por edad por 100 000 habs);Panama;4,5;3,5;3,2;3,6;3;3,3;3,4;3,6;3,7;3,1;3;3,3;3,3;3,1;3,1
+1073;124;Mortalidad;Tasa de mortalidad por cáncer uterino (ajustada por edad por 100 000 habs);Panama;1,1;2,4;1,9;1,3;2,5;2,8;3,1;2,8;2,5;2,2;2,1;2,9;4,2;2,9;2,9
+1074;125;Mortalidad;Tasa de mortalidad por enfermedades circulatorias (ajustada por edad por 100 000 habs);Panama;150,5;141,4;138,7;130,6;141,2;136,3;131,9;123,7;127,7;125,1;122;122,8;122,2;120,4;119,2
+1075;128;Mortalidad;Tasa de mortalidad por enfermedades isquémicas del corazón (ajustada por edad por 100 000 habs);Panama;73,7;68,1;70,2;65,8;69;74,7;70,3;65,1;66,9;61;54,9;54,2;55,5;54;53,5
+1076;131;Mortalidad;Tasa de mortalidad por enfermedades cerebro-vasculares (ajustada por edad por 100 000 habs);Panama;58,6;54,3;50,1;47;51,1;41,4;42,3;40,9;41,9;43,5;42;42,8;40,2;41;40,6
+1077;134;Mortalidad;Tasa de mortalidad por diabetes mellitus (ajustada por edad por 100 000 habs);Panama;30,1;32,6;29,4;30,8;25,1;28,2;28,7;31,3;31,2;33;34,5;30,3;30,9;31,2;31
+1078;137;Mortalidad;Tasa de mortalidad por Alzheimer (ajustada por edad por 100 000 habs);Panama;2,6;2,5;2,3;3;2,7;3,4;3,4;3,4;3,8;4,6;6;5,6;4,9;5,4;5,4
+1079;140;Mortalidad;Tasa de mortalidad por accidentes de transporte terrestre (ajustada por edad por 100 000 habs);Panama;14,9;17;15,5;16,4;14,2;13,8;14,8;14,6;13,3;14,6;14,6;14,6;13,6;14;14
+1080;143;Mortalidad;Tasa de mortalidad por suicidio (ajustada por edad por 100 000 habs);Panama;5,3;6;5,1;5,6;5,1;4,3;4;3,7;3,5;4,2;2,9;3,3;3,2;2,9;2,9
+1081;146;Mortalidad;Tasa de mortalidad por homicidio (ajustada por edad por 100 000 habs);Panama;14;13,9;17,3;23,3;27,6;25,2;24,5;22,6;21;19,7;17,5;15,4;15;17,6;17,5
+1082;149;Mortalidad;Tasa de mortalidad por caídas (ajustada por edad por 100 000 habs);Panama;2,3;3,3;2,7;2,4;2,7;3,2;3,3;3,8;3,9;3,4;2,9;1,8;1,7;2;2
+1083;152;Mortalidad;Tasa de mortalidad por envenenamiento accidental (ajustada por edad por 100 000 habs);Panama;0,4;3,6;0,9;0,6;0,4;0,5;0,3;0,5;0,3;0,1;0,1;0,1;0,1;0,1;0,1
+1084;155;Mortalidad;Tasa de mortalidad por cirrosis (ajustada por edad por 100 000 habs);Panama;8,1;9,2;7,5;8,5;8,7;8,2;7;8,8;7,8;7;8,1;8,1;7,2;7,6;7,6
+1085;158;Mortalidad;Tasa de mortalidad por infecciones respiratorias agudas bajas (ajustada por edad por 100 000 habs);Panama;22,8;17,8;21,8;23,1;18,2;25,9;21,9;20,7;22,2;22;16,8;15,2;13,7;14,5;14,2
+1086;161;Mortalidad;Tasa de mortalidad por enfermedades respiratorias crónicas (ajustada por edad por 100 000 habs);Panama;33,4;28,3;28,2;28,8;26,1;33,1;27,7;31,4;31,7;27,8;26,1;29,3;29,7;27,8;27,5
+1087;164;Mortalidad;Tasa de mortalidad por tuberculosis (ajustada por edad por 100 000 habs);Panama;8,7;6,9;6,8;7,4;8,4;6,2;5,4;6,1;6,2;6,3;6,5;5,1;5,6;5,3;5,2
+1088;167;Mortalidad;Tasa de mortalidad por VIH (ajustada por edad por 100 000 habs);Panama;15;15,4;15,7;16,2;17;14,4;15,4;16,1;15,8;16,5;17,2;18,1;16,4;15,7;15,4
+1089;174;Mortalidad;Tasa de mortalidad infantil estimada (1 000 nv);Panama;19,4;19;18,5;18;17,5;17;16,5;16;15,5;15;14,6;14,1;13,7;13,2;12,8
+1090;176;Mortalidad;Mortalidad en menores de cinco años estimada (1 000 nv);Panama;22,9;22,3;21,7;21;20,5;19,9;19,3;18,7;18,1;17,5;16,9;16,4;15,9;15,3;14,9
+1091;177;Mortalidad;Muertes por EDA en menores de cinco años (%);Panama;6,5;3,7;6,4;4;8,1;5,6;4,7;4,7;5,1;5,3;3;5,5;4,8;4,5;4,5
+1092;178;Mortalidad;Muertes por IRA en menores de cinco años (%);Panama;12,4;9,8;11,8;13,1;8,7;15,3;14,1;11,8;13,6;13,2;13;12,6;13;12,1;11,9
+1093;181;Mortalidad;Razón de mortalidad materna estimada (100 000 nv);Panama;88;88;86;84;82;79;76;74;66;60;58;55;52;72,92307692;72,92307692
+1094;189;Sociodemográfico;Mediana de edad (en años);Panama;25,9;26,1;26,4;26,7;26,9;27,2;27,4;27,7;27,9;28,2;28,4;28,7;28,9;29,2;29,4
+1095;194;Sociodemográfico;Tasa anual de crecimiento poblacional (%);Panama;1,8;1,8;1,8;1,8;1,8;1,7;1,7;1,7;1,7;1,7;1,7;1,7;1,7;1,7;1,6
+1096;195;Sociodemográfico;Tasa bruta de natalidad (1 000 habs);Panama;22;21,8;21,6;21,5;21,3;21,1;20,9;20,7;20,4;20,2;19,9;19,6;19,3;19;18,7
+1097;196;Sociodemográfico;Tasa bruta de mortalidad (1 000 habs);Panama;4,8;4,9;4,9;4,9;4,9;4,9;4,9;5;5;5;5;5;5;5,1;5,1
+1098;197;Sociodemográfico;Población urbana (%);Panama;63,7;64;64,3;64,6;64,9;65,1;65,4;65,7;66,1;66,4;66,7;67;67,4;67,7;68,1
+1099;198;Sociodemográfico;Esperanza de vida al nacer (en años);Panama;75,9;76,1;76,2;76,4;76,6;76,8;77;77,2;77,4;77,6;77,8;78;78,2;78,3;78,5
+1100;201;Sociodemográfico;Razón de dependencia (100 habs);Panama;57,5;57,1;56,8;56,5;56,3;56;55,8;55,5;55,3;55;54,8;54,6;54,4;54,2;54,1
+1101;204;Sociodemográfico;Población < 15 años (%);Panama;30,4;30,1;29,9;29,6;29,4;29,1;28,9;28,6;28,4;28,1;27,8;27,6;27,3;27,1;26,8
+1102;205;Sociodemográfico;Población 65 y más años (%);Panama;6,1;6,2;6,3;6,5;6,6;6,8;6,9;7,1;7,2;7,4;7,6;7,7;7,9;8,1;8,3
+1103;208;Sociodemográfico;Tasa global de fecundidad (hijos por mujer);Panama;2,7;2,6;2,6;2,6;2,6;2,6;2,6;2,6;2,6;2,6;2,5;2,5;2,5;2,5;2,4
+1104;209;Sociodemográfico;Tasa de fecundidad en adolescentes (nacimientos por 1 000 mujeres de 15 a 19 años);Panama;89;88,6;88,3;87,9;87,7;87,5;87,3;87,1;86,9;85,9;84,8;83,8;82,8;81,8;81
+1105;86;Mortalidad;Defunciones por enfermedades no transmisibles (%);Paraguay;65,9;67,7;67,4;68;67,5;69,1;69,2;70,4;70,8;72,9;73;72,7;74,1;74,4;74,9
+1106;89;Mortalidad;Defunciones por enfermedades transmisibles (%);Paraguay;22;20,1;20,4;19;19,4;18,3;18,3;17,3;17,2;14,9;15;15,8;14,7;14,4;14
+1107;92;Mortalidad;Defunciones por causas externas (%);Paraguay;12,1;12,3;12,2;13;13;12,6;12,4;12,4;12;12,2;12,1;11,5;11,3;11,2;11,1
+1108;95;Mortalidad;Tasa de mortalidad general (ajustada por edad por 1 000 habs);Paraguay;6;6,1;5,9;5,9;6;6,1;6;5,9;6;5,8;5,8;6;5,9;5,8;5,8
+1109;98;Mortalidad;Tasa de mortalidad por enfermedades transmisibles (ajustada por edad por 100 000 habs);Paraguay;101,4;93,1;96,5;89,2;96,3;92,4;92,3;86,1;88,9;73,8;76;85,4;78,5;76,4;74,1
+1110;101;Mortalidad;Tasa de mortalidad por enfermedades no transmisibles (ajustada por edad por 100 000 habs);Paraguay;444,2;452,8;438,6;439,9;442,9;452,3;443,1;443,1;447,2;447,4;447,8;456;457,3;451,1;448,3
+1111;104;Mortalidad;Tasa de mortalidad por causas externas (ajustada por edad por 100 000 habs);Paraguay;57;59,2;57,9;61,5;63,8;61,8;60,6;60,2;59,4;59,9;59,5;59,4;57,7;57,2;56,8
+1112;107;Mortalidad;Tasa de mortalidad por neoplasias malignas (ajustada por edad por 100 000 habs);Paraguay;104,9;100,4;100;100,8;97,4;98;95;91;92,8;94,1;95,4;90,8;98,8;95;94,7
+1113;110;Mortalidad;Tasa de mortalidad por cáncer de próstata (ajustada por edad por 100 000 habs);Paraguay;25,1;21,4;23,1;24,3;23,3;22,9;20,1;20,9;19,5;19,5;20,9;19,7;21,6;21;21,2
+1114;111;Mortalidad;Tasa de mortalidad por cáncer de mama (ajustada por edad por 100 000 habs);Paraguay;18,1;18,7;16,6;17,2;16,2;15,2;18,4;16,2;16,2;17,6;16,2;16,5;17,6;16,7;16,5
+1115;112;Mortalidad;Tasa de mortalidad por cáncer de colon y recto (ajustada por edad por 100 000 habs);Paraguay;7,7;7,2;7,7;8,5;8,1;8,5;8,1;8,8;8,2;8,7;9,2;9,2;10,5;9,6;9,6
+1116;115;Mortalidad;Tasa de mortalidad por cáncer de cuello uterino (ajustada por edad por 100 000 habs);Paraguay;25,4;23,4;23,1;19,2;17,9;18,6;18,6;17,4;17,9;17,5;18;16,2;19,2;17,8;17,6
+1117;116;Mortalidad;Tasa de mortalidad por cáncer de pulmón (ajustada por edad por 100 000 habs);Paraguay;12,6;12,5;12,6;12,8;13,7;13,8;13,2;12,8;13,3;12,5;13;12,4;13,6;13;13
+1118;119;Mortalidad;Tasa de mortalidad por cáncer de páncreas (ajustada por edad por 100 000 habs);Paraguay;3,7;3,5;4,3;4,6;4,6;4,2;4,4;4;4,1;4,7;4,8;4,5;4,4;4,6;4,6
+1119;124;Mortalidad;Tasa de mortalidad por cáncer uterino (ajustada por edad por 100 000 habs);Paraguay;1,4;1,4;2,2;2,4;1,9;2,4;1,4;1,5;1,7;2,4;1,3;1,7;1,7;1,6;1,6
+1120;125;Mortalidad;Tasa de mortalidad por enfermedades circulatorias (ajustada por edad por 100 000 habs);Paraguay;185;197,2;186,2;184,7;197,6;193,9;185,3;178;176,4;164,6;161,2;169,5;172,2;164,1;161,8
+1121;128;Mortalidad;Tasa de mortalidad por enfermedades isquémicas del corazón (ajustada por edad por 100 000 habs);Paraguay;78,3;85;81,8;86;94;91;88;85,1;84,5;76,9;74,9;82,2;80,6;77,7;76,6
+1122;131;Mortalidad;Tasa de mortalidad por enfermedades cerebro-vasculares (ajustada por edad por 100 000 habs);Paraguay;75,1;79;71,9;70,1;73,6;68,9;64,9;61,5;59,4;54,9;53,7;54,1;58,2;54;53,3
+1123;134;Mortalidad;Tasa de mortalidad por diabetes mellitus (ajustada por edad por 100 000 habs);Paraguay;54,3;50,6;52,4;51,3;47;50,3;48,2;50,9;55,8;56,4;54,8;55;49,7;53,3;53
+1124;137;Mortalidad;Tasa de mortalidad por Alzheimer (ajustada por edad por 100 000 habs);Paraguay;1;1,1;1,5;1,4;1,7;1,8;1,8;2,9;3,3;2,7;2;3,1;2,6;2,6;2,6
+1125;140;Mortalidad;Tasa de mortalidad por accidentes de transporte terrestre (ajustada por edad por 100 000 habs);Paraguay;16,5;18,7;18,5;24,3;25,4;26,2;25,9;24;24,5;22,7;22,8;23,2;23;22,7;22,6
+1126;143;Mortalidad;Tasa de mortalidad por suicidio (ajustada por edad por 100 000 habs);Paraguay;4,6;4,6;4,2;3,9;4,7;3,8;4,7;4,7;5,1;5,9;5,8;5,6;6,1;6,1;6,2
+1127;146;Mortalidad;Tasa de mortalidad por homicidio (ajustada por edad por 100 000 habs);Paraguay;21;18,6;16,8;16,6;15,4;14,2;13;12,2;11,4;10,8;10,6;10,4;9;8,5;8
+1128;149;Mortalidad;Tasa de mortalidad por caídas (ajustada por edad por 100 000 habs);Paraguay;1,3;1,5;1;1,2;1,7;1,8;1,7;1,7;1,8;1,5;1,7;1,7;1,5;1,6;1,6
+1129;152;Mortalidad;Tasa de mortalidad por envenenamiento accidental (ajustada por edad por 100 000 habs);Paraguay;0,2;0,3;0,3;0,3;0,2;0,2;0,1;0,2;0,3;0,2;0,1;0,3;0,2;0,2;0,2
+1130;155;Mortalidad;Tasa de mortalidad por cirrosis (ajustada por edad por 100 000 habs);Paraguay;6,1;6,4;7,5;6,8;6,9;7,4;8,5;7,7;7,2;8,5;8,7;9,2;9,1;9,1;9,2
+1131;158;Mortalidad;Tasa de mortalidad por infecciones respiratorias agudas bajas (ajustada por edad por 100 000 habs);Paraguay;27,3;24,1;28,6;21,5;32,8;29,8;28,2;22,9;21,7;18,8;22,4;30,8;29,6;27,6;27,6
+1132;161;Mortalidad;Tasa de mortalidad por enfermedades respiratorias crónicas (ajustada por edad por 100 000 habs);Paraguay;25,7;25,7;25;24,1;25,4;27,8;27;27,9;26,5;28,9;31,8;34,1;32,4;33,6;34
+1133;164;Mortalidad;Tasa de mortalidad por tuberculosis (ajustada por edad por 100 000 habs);Paraguay;8,5;7,3;6,2;6,8;5,3;6,3;6,1;5,3;5,2;5,3;5;5,4;4,6;4,7;4,5
+1134;167;Mortalidad;Tasa de mortalidad por VIH (ajustada por edad por 100 000 habs);Paraguay;12,4;11,3;10,8;10,7;9,7;9,4;8,9;9,9;10,1;9,7;9,4;9,7;10,2;8,3;7
+1135;174;Mortalidad;Tasa de mortalidad infantil estimada (1 000 nv);Paraguay;25;24,4;23,8;23,2;22,6;21,9;21,3;20,7;20,1;19,5;18,9;18,3;17,8;17,2;16,6
+1136;176;Mortalidad;Mortalidad en menores de cinco años estimada (1 000 nv);Paraguay;30;29,2;28,4;27,6;26,8;26;25,2;24,4;23,6;22,9;22,2;21,5;20,8;20,1;19,4
+1137;177;Mortalidad;Muertes por EDA en menores de cinco años (%);Paraguay;5,9;5,6;5,4;5,5;5,6;5,2;5;4,8;4,5;4,4;4,3;4,3;4,2;4,2;4,3
+1138;178;Mortalidad;Muertes por IRA en menores de cinco años (%);Paraguay;13,2;13,2;12,6;12,1;11,9;11,3;11,1;11;10,6;10,3;10,1;10;9,9;10;10,2
+1139;181;Mortalidad;Razón de mortalidad materna estimada (100 000 nv);Paraguay;137;130;124;118;113;108;103;98;94;91;88;86;84;105,6923077;105,6923077
+1140;189;Sociodemográfico;Mediana de edad (en años);Paraguay;21,7;22;22,3;22,6;22,8;23,1;23,4;23,7;24,1;24,4;24,7;25;25,3;25,7;26
+1141;194;Sociodemográfico;Tasa anual de crecimiento poblacional (%);Paraguay;1,6;1,5;1,4;1,4;1,4;1,4;1,4;1,4;1,4;1,4;1,3;1,3;1,3;1,3;1,3
+1142;195;Sociodemográfico;Tasa bruta de natalidad (1 000 habs);Paraguay;24;23,7;23,4;23,1;22,8;22,5;22,2;21,9;21,6;21,4;21,2;21;20,8;20,6;20,3
+1143;196;Sociodemográfico;Tasa bruta de mortalidad (1 000 habs);Paraguay;5,4;5,4;5,4;5,4;5,4;5,4;5,4;5,4;5,4;5,4;5,4;5,4;5,5;5,5;5,5
+1144;197;Sociodemográfico;Población urbana (%);Paraguay;57,6;58;58,3;58,6;58,9;59,3;59,6;59,9;60,2;60,5;60,8;61;61,3;61,6;61,9
+1145;198;Sociodemográfico;Esperanza de vida al nacer (en años);Paraguay;71,7;71,9;72,1;72,3;72,5;72,7;72,9;73,1;73,3;73,5;73,7;73,8;74;74,1;74,3
+1146;201;Sociodemográfico;Razón de dependencia (100 habs);Paraguay;67,3;65,9;64,8;63,8;62,8;61,7;60,8;59,7;58,6;57,7;57;56,5;56,1;55,9;55,8
+1147;204;Sociodemográfico;Población < 15 años (%);Paraguay;35,5;34,9;34,4;33,9;33,5;32,9;32,5;31,9;31,4;30,9;30,4;30;29,7;29,4;29,2
+1148;205;Sociodemográfico;Población 65 y más años (%);Paraguay;4,7;4,8;4,9;5;5,1;5,2;5,3;5,4;5,6;5,7;5,9;6,1;6,2;6,4;6,6
+1149;208;Sociodemográfico;Tasa global de fecundidad (hijos por mujer);Paraguay;3;3;2,9;2,9;2,8;2,7;2,7;2,6;2,6;2,5;2,5;2,5;2,5;2,4;2,4
+1150;209;Sociodemográfico;Tasa de fecundidad en adolescentes (nacimientos por 1 000 mujeres de 15 a 19 años);Paraguay;82,2;80,9;79,6;78,4;77,3;76,2;75,1;74;72,9;72,4;72;71,5;71;70,5;70,2
